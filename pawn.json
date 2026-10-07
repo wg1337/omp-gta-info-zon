@@ -3,7 +3,7 @@
   "repo": "omp-gta-info-zon",
   "contributors": ["wg1337"],
   "dependencies": [
-    "wg1337/omp-gta-popcylce",
+    "wg1337/omp-gta-popcycle",
     "wg1337/omp-gta-map-zon"
   ]
 }
